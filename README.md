@@ -12,4 +12,4 @@
 | **final** | 10 + 5 + 7 | **22** | Matches Finance's reported target_base |
 
 ## SQL
-See [`target_base_reconciliation.sql`](./target_base_reconciliation.sql). Run against `data/comm_log.db`.
+See [`target_base_reconciliation.sql`](./target_base_reconciliation.sql). Run against comm_log.db.
